@@ -1,0 +1,23 @@
+body{
+background: linear-gradient(to bottom,rgb(126, 240, 255), rgb(0, 137, 250));
+text-align: center;
+}
+p{
+  font-family: monospace;
+  font-size: 1.5rem;
+  color: #000;
+}
+h2{
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2rem;
+}
+img{
+ width: 50vh;
+ height: 50vh ;
+}
+h1{
+  font-family: cursive;
+  font-size: 3rem;
+
+}
